@@ -1,5 +1,14 @@
 {
-  "devDependencies": {
-    "nodemon": "^2.0.16"
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this is a nodeserver for the baatein karo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samarpit",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.1"
   }
 }
